@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Binarios
+bin/
+obj/
+
+# Archivos temporales
+*.log
+*.tmp
+*.cache
+
+# Configurcion local
+*.env
+.env
+
+# Archivos de base de datos locales 
+*.mdf
+*.ldf
+
+# Archivos de respaldo
+*.bak
+*.zip

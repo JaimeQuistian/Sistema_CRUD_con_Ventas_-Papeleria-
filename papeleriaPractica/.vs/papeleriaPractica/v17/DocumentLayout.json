@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C53EB4B0-F6F8-47D9-AB33-3E4ECC38B93C}|papeleriaPractica\\papeleriaPractica.csproj|C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriapractica\\connection\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53EB4B0-F6F8-47D9-AB33-3E4ECC38B93C}|papeleriaPractica\\papeleriaPractica.csproj|solutionrelative:papeleriapractica\\connection\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53EB4B0-F6F8-47D9-AB33-3E4ECC38B93C}|papeleriaPractica\\papeleriaPractica.csproj|c:\\users\\jaime\\desktop\\papeleriapractica\\papeleriapractica\\papeleriapractica\\frmregistrarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53EB4B0-F6F8-47D9-AB33-3E4ECC38B93C}|papeleriaPractica\\papeleriaPractica.csproj|solutionrelative:papeleriapractica\\frmregistrarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53EB4B0-F6F8-47D9-AB33-3E4ECC38B93C}|papeleriaPractica\\papeleriaPractica.csproj|C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriapractica\\frmregistrarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53EB4B0-F6F8-47D9-AB33-3E4ECC38B93C}|papeleriaPractica\\papeleriaPractica.csproj|solutionrelative:papeleriapractica\\frmregistrarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53EB4B0-F6F8-47D9-AB33-3E4ECC38B93C}|papeleriaPractica\\papeleriaPractica.csproj|C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriapractica\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53EB4B0-F6F8-47D9-AB33-3E4ECC38B93C}|papeleriaPractica\\papeleriaPractica.csproj|solutionrelative:papeleriapractica\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53EB4B0-F6F8-47D9-AB33-3E4ECC38B93C}|papeleriaPractica\\papeleriaPractica.csproj|C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriapractica\\models\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53EB4B0-F6F8-47D9-AB33-3E4ECC38B93C}|papeleriaPractica\\papeleriaPractica.csproj|solutionrelative:papeleriapractica\\models\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53EB4B0-F6F8-47D9-AB33-3E4ECC38B93C}|papeleriaPractica\\papeleriaPractica.csproj|C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriapractica\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53EB4B0-F6F8-47D9-AB33-3E4ECC38B93C}|papeleriaPractica\\papeleriaPractica.csproj|solutionrelative:papeleriapractica\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53EB4B0-F6F8-47D9-AB33-3E4ECC38B93C}|papeleriaPractica\\papeleriaPractica.csproj|C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriapractica\\controllers\\productocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53EB4B0-F6F8-47D9-AB33-3E4ECC38B93C}|papeleriaPractica\\papeleriaPractica.csproj|solutionrelative:papeleriapractica\\controllers\\productocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53EB4B0-F6F8-47D9-AB33-3E4ECC38B93C}|papeleriaPractica\\papeleriaPractica.csproj|C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriapractica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53EB4B0-F6F8-47D9-AB33-3E4ECC38B93C}|papeleriaPractica\\papeleriaPractica.csproj|solutionrelative:papeleriapractica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53EB4B0-F6F8-47D9-AB33-3E4ECC38B93C}|papeleriaPractica\\papeleriaPractica.csproj|C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriapractica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53EB4B0-F6F8-47D9-AB33-3E4ECC38B93C}|papeleriaPractica\\papeleriaPractica.csproj|solutionrelative:papeleriapractica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriaPractica\\Connection\\DBConnection.cs",
+              "RelativeDocumentMoniker": "papeleriaPractica\\Connection\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriaPractica\\Connection\\DBConnection.cs",
+              "RelativeToolTip": "papeleriaPractica\\Connection\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:11:30.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmRegistrarVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriaPractica\\frmRegistrarVenta.cs",
+              "RelativeDocumentMoniker": "papeleriaPractica\\frmRegistrarVenta.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriaPractica\\frmRegistrarVenta.cs",
+              "RelativeToolTip": "papeleriaPractica\\frmRegistrarVenta.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAmwEAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T18:20:48.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmRegistrarVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriaPractica\\frmRegistrarVenta.cs",
+              "RelativeDocumentMoniker": "papeleriaPractica\\frmRegistrarVenta.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriaPractica\\frmRegistrarVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "papeleriaPractica\\frmRegistrarVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:04:13.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmRegistrarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriaPractica\\frmRegistrarProducto.cs",
+              "RelativeDocumentMoniker": "papeleriaPractica\\frmRegistrarProducto.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriaPractica\\frmRegistrarProducto.cs",
+              "RelativeToolTip": "papeleriaPractica\\frmRegistrarProducto.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA9wCkAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T19:18:26.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmRegistrarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriaPractica\\frmRegistrarProducto.cs",
+              "RelativeDocumentMoniker": "papeleriaPractica\\frmRegistrarProducto.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriaPractica\\frmRegistrarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "papeleriaPractica\\frmRegistrarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:03:53.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriaPractica\\Form1.cs",
+              "RelativeDocumentMoniker": "papeleriaPractica\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriaPractica\\Form1.cs",
+              "RelativeToolTip": "papeleriaPractica\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:01:50.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriaPractica\\Form1.cs",
+              "RelativeDocumentMoniker": "papeleriaPractica\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriaPractica\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "papeleriaPractica\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T17:52:31.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriaPractica\\Controllers\\ProductoControllers.cs",
+              "RelativeDocumentMoniker": "papeleriaPractica\\Controllers\\ProductoControllers.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriaPractica\\Controllers\\ProductoControllers.cs",
+              "RelativeToolTip": "papeleriaPractica\\Controllers\\ProductoControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:56:38.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriaPractica\\Models\\ProductoDAO.cs",
+              "RelativeDocumentMoniker": "papeleriaPractica\\Models\\ProductoDAO.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Desktop\\papeleriaPractica\\papeleriaPractica\\papeleriaPractica\\Models\\ProductoDAO.cs",
+              "RelativeToolTip": "papeleriaPractica\\Models\\ProductoDAO.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAswFIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:49:02.592Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
